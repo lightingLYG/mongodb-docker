@@ -1,4 +1,4 @@
-FROM lightinglyg/alpine-base:edge
+FROM hub.c.163.com/lightingfire/alpine-base:edge
 
 COPY run.sh /root
 
